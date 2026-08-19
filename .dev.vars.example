@@ -1,0 +1,6 @@
+TURSO_DATABASE_URL="https://my-bookshelf-username.turso.io"
+TURSO_AUTH_TOKEN="your_turso_auth_token_here"
+GOOGLE_CLIENT_ID="your_client_id.apps.googleusercontent.com"
+OWNER_EMAIL="your_email@gmail.com"
+SESSION_SECRET="your_random_32_characters_session_secret_key"
+DEV_OWNER_ID="1"

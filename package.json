@@ -1,0 +1,9 @@
+{
+  "name": "bookshelf",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx wrangler pages dev .",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
